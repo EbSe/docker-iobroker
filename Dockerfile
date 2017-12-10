@@ -1,6 +1,6 @@
 FROM debian:latest
 
-MAINTAINER Andre Germann <info@buanet.de>
+MAINTAINER Sebastian Eberle <info@eberle.cloud>
 
 ENV DEBIAN_FRONTEND noninteractive
 
